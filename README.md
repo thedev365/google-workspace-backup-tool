@@ -107,6 +107,6 @@ P12 keys come with a certificate in the form of a PKCS#12 bundle, whereas JSON k
 ```csv
 Email, Folder, Status, Item Count
 user1@yourdomain.com, CHAT, Success, 0
+user1@yourdomain.com, INBOX, Success, 7365
+user2@yourdomain.com, CHAT, Success, 0
 user2@yourdomain.com, INBOX, Success, 7365
-user3@yourdomain.com, CHAT, Success, 0
-user4@yourdomain.com, INBOX, Success, 7365
